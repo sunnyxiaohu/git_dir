@@ -13,7 +13,7 @@ work dictory --> stage -->branch
 
 #tracks changes of file
 
-#Creating a new branch is quick
+#Creating a new branch is quick & simple
 git checkout -b dev
 --git branch dev
 --git checkout dev
