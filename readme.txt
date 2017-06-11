@@ -1,5 +1,5 @@
 This is a reademe for git_dir learning
-Git is a distributed version control system.
+Git is a distributed version control system .
 git init
 git add
 git commit -m
@@ -13,7 +13,9 @@ work dictory --> stage -->branch
 
 #tracks changes of file
 
+
 #Creating a new branch is quick & simple
+
 git checkout -b dev
 --git branch dev
 --git checkout dev
