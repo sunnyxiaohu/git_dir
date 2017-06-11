@@ -9,3 +9,6 @@ Git is free software disttibuted under GPL
 
 #stage
 Understand how stage works
+work dictory --> stage -->branch
+
+#tracks changes of file
