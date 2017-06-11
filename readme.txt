@@ -6,3 +6,6 @@ git commit -m
 
 #append GPL
 Git is free software disttibuted under GPL
+
+#stage
+Understand how stage works
