@@ -12,3 +12,5 @@ Understand how stage works
 work dictory --> stage -->branch
 
 #tracks changes of file
+
+#Creating a new branch is quick
